@@ -1,11 +1,11 @@
-name = "make_vegetable_driver"
-version = "1.2.0"
+name = "cart"
+version = "1.0.0"
 license = "MIT"
 author = "Brad Richardson"
 maintainer = "everythingfunctional@protonmail.com"
 copyright = "2021 Brad Richardson"
 
 [dependencies]
-  iso_varying_string = { git = "https://gitlab.com/everythingfunctional/iso_varying_string.git", tag = "v2.3.0" }
+  iso_varying_string = { git = "https://gitlab.com/everythingfunctional/iso_varying_string.git", tag = "v3.0.1" }
   parff = { git = "https://gitlab.com/everythingfunctional/parff.git", tag = "v3.1.4" }
   M_CLI = { git = "https://github.com/urbanjost/m_cli.git", tag = "v1.0.1"}
